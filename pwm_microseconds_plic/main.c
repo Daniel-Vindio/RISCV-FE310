@@ -2,6 +2,9 @@
 // audobra@gmail.com
 // 8-aug-2022
 
+// Exercise to understand the generation and interaction between PLIC and CLINT 
+// type interrupts. This has been necessary to understand some problems 
+// found when trying to develop a microsecond clock.
 
 #include <stdio.h>
 #include <stdint.h>
