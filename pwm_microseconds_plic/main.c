@@ -5,6 +5,7 @@
 // Exercise to understand the generation and interaction between PLIC and CLINT 
 // type interrupts. This has been necessary to understand some problems 
 // found when trying to develop a microsecond clock.
+// See https://forums.sifive.com/t/microsecond-counter-with-pwm/5775
 
 #include <stdio.h>
 #include <stdint.h>
